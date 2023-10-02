@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="DEEPAK CATERING">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEEPAK Caterers</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can create a separate CSS file for styling -->
+    
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#Welcome to DEEPAK CATERING MOBILE NUMBER IS 9672142768,6378889492">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="Welcome to DEEPAK CATERING">
+        <h1 style="color: red;">Welcome to DEEPAK CATERING MOBILE NUMBER IS 9672142768,6378889492</h1>
+        <h1>MR.NANDLAL JI,owner of Deepak Caterers , based in Jaipur </h1>
+        <p>Your business tagline or brief description goes here.</p>
+        <a href="#contact" class="cta-button">Contact Us</a>
+        <img src="">
+    </section>
+
+    <section id="about">
+        <h2> I AM DEEPAK KUMAR GHARANA</h2>
+        <p>Provide information about your business and its history.</p>
+        <IMg src="C:\Users\ABCD\Downloads\WhatsApp Image 2023-09-08 at 23.10.11.jpeg">
+          <BR>
+    </section>
+
+    <section id="services">
+        <h2></h2>
+        <h1 style="color: blue;">DEEPAK CONSTRUCTION WORKING</h1>
+          <iframe width="1000PX" height="500PX" src="https://www.mixo.io/site/build-master-x04fh"></iframe>
+      
+        <ul>
+            <li>I am Deepak KUMAR GHARANA, owner of Deepak Caterers , based in Jaipur. I have started working in 2020 and have covered 50 weddings. I work towards clients’ catering requirements with an aim to give the best hospitality. We have high standards for our fresh food experience with experienced staff. Great work atmosphere, Hygienic kitchen area, and Specialty in food preparation are our forte leading to both our staff content and client’s gratification. Do get in touch with us for your upcoming event.
+
+            </li>
+            <li>CATERER TYPE
+
+              Food Counters,Full Service Catering,Small Function Catering,Chaat & Fruit Stalls,Dessert
+              
+              </li>
+            <li>9672142768,6378889492</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form action="submit_form.php" method="post">
+            <label for="Name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 DEEPAK CATERING</p>
+    </footer>
+    <h1 style="color: brown;">DEEPAK APP AND WEBSITE BUILDER</h1>
+          <iframe width="1000PX" height="500PX" src="https://www.mixo.io/site/app-builder-6gvwp"></iframe>
+</body>
+</html>
